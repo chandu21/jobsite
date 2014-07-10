@@ -18,7 +18,7 @@
 #   socket: /var/run/mysqld/mysqld.sock
 
 default: &default
-  adapter: mysql2
+  adapter: postgresql
   encoding: utf8
   reconnect: false
   #host: cafelearn.cgm54pwexode.us-east-1.rds.amazonaws.com
