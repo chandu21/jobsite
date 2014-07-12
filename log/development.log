@@ -10211,3 +10211,9 @@ Started GET "/assets/Adds/add10.jpg" for 127.0.0.1 at 2014-07-09 22:43:22 +0530
 
 
 Started GET "/assets/footerbg.gif" for 127.0.0.1 at 2014-07-09 22:43:22 +0530
+  [1m[36mRole Load (0.5ms)[0m  [1mSELECT `roles`.* FROM `roles`[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.4ms)[0m  SELECT `schema_migrations`.* FROM `schema_migrations`
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT `schema_migrations`.* FROM `schema_migrations`[0m
+  [1m[36mRole Load (0.3ms)[0m  [1mSELECT `roles`.* FROM `roles`[0m
+  [1m[36mRole Load (0.3ms)[0m  [1mSELECT `roles`.* FROM `roles`[0m
+  [1m[36mRole Load (0.3ms)[0m  [1mSELECT `roles`.* FROM `roles`[0m

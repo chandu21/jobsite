@@ -18,8 +18,8 @@
 #   socket: /var/run/mysqld/mysqld.sock
 
 default: &default
-  adapter: postgresql
-  encoding: unicode
+  adapter: mysql2
+  # encoding: unicode
   #reconnect: false
   #host: cafelearn.cgm54pwexode.us-east-1.rds.amazonaws.com
   pool: 5
@@ -61,5 +61,6 @@ test:
 #
 production:
   <<: *default
-  database: jobsite
-  username: jobsite
+  database: dhc8megeiqh5t
+  username: pixndxkqmodyaf
+  password: HlGDU6Hz1fCLIfkyLDLvN5r88s
