@@ -10374,3 +10374,4 @@ Started GET "/assets/location-category.png" for 127.0.0.1 at 2016-02-23 06:59:46
 
 
 Started GET "/assets/footerbg.gif" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+  [1m[36mRole Load (0.1ms)[0m  [1mSELECT `roles`.* FROM `roles`[0m
