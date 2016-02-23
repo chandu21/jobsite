@@ -10217,3 +10217,160 @@ Started GET "/assets/footerbg.gif" for 127.0.0.1 at 2014-07-09 22:43:22 +0530
   [1m[36mRole Load (0.3ms)[0m  [1mSELECT `roles`.* FROM `roles`[0m
   [1m[36mRole Load (0.3ms)[0m  [1mSELECT `roles`.* FROM `roles`[0m
   [1m[36mRole Load (0.3ms)[0m  [1mSELECT `roles`.* FROM `roles`[0m
+  [1m[36mRole Load (0.3ms)[0m  [1mSELECT `roles`.* FROM `roles`[0m
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-23 06:59:44 +0530
+  [1m[35mActiveRecord::SchemaMigration Load (0.2ms)[0m  SELECT `schema_migrations`.* FROM `schema_migrations`
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (13.4ms)
+  Rendered shared/_default_menu.html.erb (0.4ms)
+Completed 200 OK in 993ms (Views: 948.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-23 06:59:45 +0530
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+  Rendered shared/_default_menu.html.erb (0.1ms)
+Completed 200 OK in 44ms (Views: 43.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/admin/admins.js?body=1" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/admin/countries.js?body=1" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/admin/dashboard.js?body=1" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/admin/job_seekers.js?body=1" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/admin/sessions.js?body=1" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/admin/states.js?body=1" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/jquery.ui.theme.css?body=1" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/jquery.ui.datepicker.css?body=1" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/admin_base.js?body=1" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/admins.js?body=1" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/jquery.ui.core.css?body=1" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/employers.js?body=1" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/job_seekers.js?body=1" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/jquery_nested_form.js?body=1" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/jquery.ui.core.js?body=1" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/jquery.ui.datepicker.js?body=1" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/Adds/add1.jpg" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/Adds/add2.jpg" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/Adds/add3.jpg" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/jobsite.png" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/Adds/add4.jpg" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/Adds/add6.jpg" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/Adds/add5.jpg" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/Adds/add8.jpg" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/Adds/add7.jpg" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/Adds/add9.jpg" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/Adds/add10.jpg" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/mainbg.gif" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/left-top.jpg" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/menu-bg.jpg" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/dot.gif" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/homebg.gif" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/arrow-normal.gif" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/category-icon-1.png" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/type-category.png" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/location-category.png" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
+
+
+Started GET "/assets/footerbg.gif" for 127.0.0.1 at 2016-02-23 06:59:46 +0530
